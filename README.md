@@ -29,7 +29,7 @@ The project structure is organized as follows:
 
 
 ## Future Improvements
-- Implement state management for more complex interactions.
+- To Increase of decrease the value of translucent layer you can adjust it in the line no:-43 of Index.css file
 - Enhance styling for a more polished look.
 
 
