@@ -7,7 +7,7 @@ This page is designed using CSS and uses Javascript to show the alert Message.
 
 
 ## Deployed Link
-Here you will find the deployed link of the app in production: [Travelopia by Mohammad Asif](https://remarkable-travesseiro-a29130.netlify.app/)
+Here you will find the deployed link of the app in production: [Travelopia by Mohammad Asif](https://travelopiatravel.netlify.app/)
 
 
 # Project Structure
