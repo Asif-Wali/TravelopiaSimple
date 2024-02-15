@@ -1,4 +1,4 @@
-# Travelopia App Documentation
+# TravelopiaTravel App Documentation
 
 ## Introduction
 This is a one page project. This Page is designed to showcase a simple UI with a title, a button, and a background image that is responsive across all screen sizes.
@@ -15,7 +15,7 @@ The project structure is organized as follows:
 
 
 
-- **`/TravelopiaSimple`:** Contains Four files.
+- **`/TravelopiaTravel`:** Contains Four files.
   - **`/index.html`:** This is the html page which is rendered on the browser.
   - **`/index.css`:** This file consists all the styling of the page.
   - **`/index.js`:** Holds Javascript logic of the page.
