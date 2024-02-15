@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travelopia</title>
+    <link rel="stylesheet" href="./index.css">
+    
+</head>
+<body class="MainBody" data-testid="LandingPage">
+    <nav class="navbar" data-testid="navbar">
+        <h1>Travelopia</h1>
+    </nav>
+    <main class=heroContainer data-testid="main-content">
+            
+        <img
+            src="https://images.unsplash.com/photo-1695443791918-6dad691c18f3?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Landscape"
+            class="heroImage"
+        />
+        <div class="translucentLayer"></div>
+        <div class="content">
+            <h1 class="title" data-testid="title">Unexplored landscape awaits you.</h1>
+            <button id="button" onClick={handleClick}>
+                Click Here
+            </button>
+        </div>
+    </main>
+    <footer class="footer" data-testid="footer">
+        <span>© 2023 <a href="https://main--remarkable-travesseiro-a29130.netlify.app/">Travelopia™</a>. All Rights Reserved.
+        </span>
+    </footer>
+    <script src="index.js"></script>
+</body>
+</html>
